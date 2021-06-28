@@ -1,1 +1,3 @@
 # SilverDollar
+
+In this program, I was able to recreate the Silver Dollar game. This was done with the use of an array, but further implementations could involve the use of a vector. The objective of the Silver Dollar Game is to be the last person to make a legal move. The program starts by asking for the size of the gameboard and the amount of coins one wants on the gameboard (note: you cannot have more coins than what is on the gameboard). Then you are able to start the game and the regular Silver Dollar game rules apply. This includes the coins only being able to move to the left and no two coins can overlap. Also, the coins cannot go out of bounds. 
