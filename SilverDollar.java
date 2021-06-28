@@ -1,17 +1,13 @@
 import java.util.Scanner;
 import java.util.Random;
 
-/*
- 
- A program that represents the Silver Dollar Game. The game displays the size
+/* 
+ * A program that represents the Silver Dollar Game. The game displays the size
  * and number of coins the players want to have. Then, each player takes a turn
  * selecting a coin and moving it a certain amount of spaces to the left. The
  * coins cannot overlap and cannot go out of bounds. The objective is to be
- * the last player to make a legal move. As a result, the player that does
- * make the last legal move is the winner.
+ * the last player to make a legal move.
  *
- * Note: Coin Number assignment ranges from 0 to however many coins you declare
- * For example, the first coin is coin 0 when you want to move it.
  */
 
 public class Coinstrip {
